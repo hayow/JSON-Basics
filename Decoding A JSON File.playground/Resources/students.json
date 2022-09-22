@@ -1,0 +1,71 @@
+
+
+
+
+
+[
+    {
+        "id": "student-1",
+        "name": "Samatar",
+        "age": 26,
+        "gender": "male",
+        "courses": [
+            "Pre-Calculus",
+            "Environmental Chemistry",
+            "Minnesota History"
+        ]
+    },
+
+    {
+        "id": "student-2",
+        "name": "Shankaroon",
+        "age": 19,
+        "gender": "female",
+        "courses": [
+            "College Algebra",
+            "Freshman Composition",
+            "US History"
+        ]
+    },
+
+    {
+        "id": "student-3",
+        "name": "Sharmaarke",
+        "age": 21,
+        "gender": "male",
+        "courses": [
+            "Trigonometry",
+            "Freshman Composition",
+            "Introduction To Philosophy"
+        ]
+    },
+
+    {
+        "id": "student-4",
+        "name": "Cosob",
+        "age": 18,
+        "gender": "female",
+        "courses": [
+            "College Algebra",
+            "Freshman Composition",
+            "Micro Economics"
+        ]
+    },
+
+    {
+        "id": "student-5",
+        "name": "Ja'eelow",
+        "age": 23,
+        "gender": "male",
+        "courses": [
+            "Calculus",
+            "Programming In C",
+            "Minnesota History"
+        ]
+    }
+]
+
+
+
+
+
